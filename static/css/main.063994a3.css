@@ -1,0 +1,2 @@
+#cover,#heading,#result{align-items:center;display:flex;justify-content:center;margin-left:550px;width:500px}#heading,#result{margin-top:10vh}#heading{background-color:#a9f4a9;height:100px}#cover{background-color:#dadadada;height:100px}img{height:350px;width:800px}@media only screen and (max-width:600px){img{height:200px;margin-top:200px;width:400px}#cover,#heading,#result{margin-left:0}#cover,#heading{margin-left:20px;width:450px}body{height:100vh;width:100vw}}
+/*# sourceMappingURL=main.063994a3.css.map*/
